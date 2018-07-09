@@ -1,7 +1,7 @@
 App Name : 
 - smartBill
 - FastBill
-- EasyBill
+- EasyBill(Current)
 - DigiBill
 - DigiStore
 - PointOfSale
